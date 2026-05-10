@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Projects/InventorySystem/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Projects/InventorySystem/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/ICO_Apple.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/SM_Apple.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/Textures/T_Apple_Base_color.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/Textures/T_Apple_Height.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/Textures/T_Apple_Metallic.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/Textures/T_Apple_Mixed_AO.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/Textures/T_Apple_Normal.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/Textures/T_Apple_Normal_OpenGL.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/Textures/T_Apple_Roughness.uasset",
+				"C:/Projects/InventorySystem/Content/Inventory/Assets/Eatables/Apple/3DModel/M_Apple.uasset"
 			]
 		}
 	]
