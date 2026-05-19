@@ -10,3 +10,20 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### Unreal Engine
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcworkspace
+*.xcodeproj
+*.log
+*.dmp
